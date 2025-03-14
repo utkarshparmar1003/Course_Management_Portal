@@ -1,4 +1,4 @@
-# CourseConnect - A Course Management System
+# Course Management Portal
 
 This is a web-based Course Management System designed to manage and streamline the process of course creation, updating, deletion, and viewing. Built with React on the frontend and Spring Boot on the backend, the system provides a user-friendly interface for educators and administrators to manage courses effectively.
 
